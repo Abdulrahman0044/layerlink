@@ -4,8 +4,8 @@ Layerlink is dedicated to developing cutting-edge implantable and wearable techn
 
 ## Features
 
-1. Vision Enhancement: Implantable devices that provide real-time vision enhancement.
+* **Vision Enhancement:** Implantable devices that provide real-time vision enhancement.
 
-1. Wearable Technology: Ergonomically designed wearable devices that complement our implantable solutions.
+* **Wearable Technology:** Ergonomically designed wearable devices that complement our implantable solutions.
 
-1. User-Focused Design: Solutions designed with user comfort and usability in mind.
+* **User-Focused Design:** Solutions designed with user comfort and usability in mind.
